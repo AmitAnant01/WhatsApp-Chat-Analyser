@@ -1,5 +1,5 @@
 ﻿# WhatsApp Chat Analyzer
- ![App Screenshot](app.png)
+ ![App Screenshot](img.png)
 
 This is an end-to-end WhatsApp Chat Analyzer project built using Python and Streamlit. In this project, I used basic NLP techniques to clean and analyze chat data. The app allows users to upload their WhatsApp chat file and get useful insights like total messages, most active users, word frequency, emoji usage, and activity timeline. I also used libraries like pandas, matplotlib, and wordcloud for data processing and visualization. The project is fully deployed online using Streamlit Cloud, so anyone can use it easily through a browser without installing anything.
 
