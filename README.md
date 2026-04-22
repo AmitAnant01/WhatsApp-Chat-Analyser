@@ -6,7 +6,7 @@ This is an end-to-end WhatsApp Chat Analyzer project built using Python and Stre
 - Note: This only supported for Without Media file.
 
   
-🔗 **Live App: lets Try this** https://amitanant01-whatsapp-chat-analyser-app-ngt9ec.streamlit.app/
+🔗 **Live App: lets Try this** [https://amitanant01-whatsapp-chat-analyser-app-ngt9ec.streamlit.app/](https://amitanant01-whatsapp-chat-analyser-app-ngt9ec.streamlit.app/)
 
 
 ## Features
